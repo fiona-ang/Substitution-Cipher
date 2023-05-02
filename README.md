@@ -1,5 +1,5 @@
 # Substitution Cipher Algorithm
-This Python program allows users to encrypt and decrypt plain texts/messages using a simple substitution algorithm. The substitution algorithm replaces each letter in the plaintext with a corresponding letter in the ciphertext, according to a predetermined key.
+This Python program allows users to encrypt and decrypt plain texts/messages using a simple substitution algorithm. The substitution algorithm replaces each letter in the plaintext with a random substitution key.
 
 # Installation
 1. Clone the repository or download the substitution.py file.
